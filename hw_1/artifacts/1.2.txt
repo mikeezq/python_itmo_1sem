@@ -1,0 +1,49 @@
+python3 hw_1/1.2.py
+ad
+f
+f
+f
+f
+
+
+ad
+f
+f
+f
+f
+
+
+(venv) korn-m-osx:python_itmo_1sem korn-m$ python3 hw_1/1.2.py hw_1/1.1.py
+            row_count += 1
+
+
+def main():
+    args = parse_args()
+    numerate_rows(args)
+
+
+if __name__ == "__main__":
+    main()
+(venv) korn-m-osx:python_itmo_1sem korn-m$ python3 hw_1/1.2.py hw_1/1.1.py hw_1/1.2.py
+==> hw_1/1.1.py <==
+            row_count += 1
+
+
+def main():
+    args = parse_args()
+    numerate_rows(args)
+
+
+if __name__ == "__main__":
+    main()
+==> hw_1/1.2.py <==
+            print(f"{str(stdin_lines[line_index])}", end="")
+
+
+def main():
+    args = parse_args()
+    tail(args)
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,26 @@
+(venv) korn-m-osx:python_itmo_1sem korn-m$ wc hw_1/1.1.py hw_1/1.2.py
+      32      74     741 hw_1/1.1.py
+      36      87     946 hw_1/1.2.py
+      68     161    1687 total
+(venv) korn-m-osx:python_itmo_1sem korn-m$ python3 hw_1/1.3.py hw_1/1.1.py hw_1/1.2.py
+      33      74     741 hw_1/1.1.py
+      37      87     946 hw_1/1.2.py
+      70      161    1687 total
+(venv) korn-m-osx:python_itmo_1sem korn-m$ wc
+f
+ad
+sdaf
+12343214
+f d as
+       5       7      26
+(venv) korn-m-osx:python_itmo_1sem korn-m$ python3 hw_1/1.3.py
+f
+ad
+sdaf
+12343214
+f d as
+      5      7     26
+(venv) korn-m-osx:python_itmo_1sem korn-m$ wc hw_1/1.1.py
+      32      74     741 hw_1/1.1.py
+(venv) korn-m-osx:python_itmo_1sem korn-m$ python3 hw_1/1.3.py hw_1/1.1.py
+      33      74     741 hw_1/1.1.py

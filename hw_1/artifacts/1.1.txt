@@ -1,0 +1,65 @@
+python3 hw_1/1.1.py hw_1/1.1.py
+     1  from argparse import ArgumentParser
+     2  import fileinput
+     3
+     4
+     5  def parse_args():
+     6      parser = ArgumentParser()
+     7
+     8      parser.add_argument("filename", nargs='?', help="Path to file, if not specified read from stdin", default="")
+     9
+     10      return parser.parse_args()
+     11
+     12
+     13  def numerate_rows(args):
+     14      row_count = 1
+     15      if not args.filename:
+     16          for line in fileinput.input():
+     17              print(f"     {row_count}  {line}", end="")
+     18              row_count += 1
+     19      else:
+     20          with open(args.filename) as file:
+     21              lines = file.readlines()
+     22          for line in lines:
+     23              print(f"     {row_count}  {line}", end="")
+     24              row_count += 1
+     25
+     26
+     27  def main():
+     28      args = parse_args()
+     29      numerate_rows(args)
+     30
+     31
+     32  if __name__ == "__main__":
+     33      main()(venv) korn-m-osx:python_itmo_1sem korn-m$
+(venv) korn-m-osx:python_itmo_1sem korn-m$
+(venv) korn-m-osx:python_itmo_1sem korn-m$
+(venv) korn-m-osx:python_itmo_1sem korn-m$
+(venv) korn-m-osx:python_itmo_1sem korn-m$
+(venv) korn-m-osx:python_itmo_1sem korn-m$ python3 hw_1/1.1.py
+test
+     1  test
+1
+     2  1
+2
+     3  2
+3
+     4  3
+
+     5
+
+     6
+
+     7
+test
+     8  test
+
+     9
+
+     10
+
+     11
+
+     12
+asdfkl
+     13  asdfkl
