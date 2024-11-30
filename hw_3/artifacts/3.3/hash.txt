@@ -1,0 +1,4 @@
+hash(A) = 10
+hash(C) = 10
+hash(B) = 6
+hash(D) = 6
