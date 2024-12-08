@@ -1,0 +1,2 @@
+Threads run time: 57.215964794158936
+Processes run time: 7.467844009399414

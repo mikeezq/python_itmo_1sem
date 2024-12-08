@@ -1,0 +1,23 @@
+INPUT:
+test
+Encoded str: grfg
+1234
+Encoded str: 1234
+q
+we
+rfqwe
+asd
+Encoded str: d
+Encoded str: jr
+Encoded str: esdjr
+Encoded str: nfq
+
+
+
+LOGS:
+2024-12-08 13:38:47,800 Send message test to b queue
+2024-12-08 13:38:52,800 Send message 1234 to b queue
+2024-12-08 13:38:57,800 Send message q to b queue
+2024-12-08 13:39:02,800 Send message we to b queue
+2024-12-08 13:39:07,800 Send message rfqwe to b queue
+2024-12-08 13:39:12,801 Send message asd to b queue

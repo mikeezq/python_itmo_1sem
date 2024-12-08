@@ -1,0 +1,288 @@
+INFO:__main__:Running ThreadPoolExecutor with 1 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 1 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.40660285949707, ProcessPoolExecutor time: 8.40660285949707 with 1 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 2 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 2 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.451048135757446, ProcessPoolExecutor time: 8.451048135757446 with 2 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 3 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 3 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.393735885620117, ProcessPoolExecutor time: 8.393735885620117 with 3 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 4 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 4 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.404698848724365, ProcessPoolExecutor time: 8.404698848724365 with 4 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 5 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 5 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.438699007034302, ProcessPoolExecutor time: 8.438699007034302 with 5 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 6 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 6 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.45370888710022, ProcessPoolExecutor time: 8.45370888710022 with 6 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 7 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 7 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.39736008644104, ProcessPoolExecutor time: 8.39736008644104 with 7 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 8 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 8 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.440773010253906, ProcessPoolExecutor time: 8.440773010253906 with 8 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 9 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 9 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.495723962783813, ProcessPoolExecutor time: 8.495723962783813 with 9 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 10 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 10 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.480977058410645, ProcessPoolExecutor time: 8.480977058410645 with 10 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 11 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 11 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.47101092338562, ProcessPoolExecutor time: 8.47101092338562 with 11 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 12 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 12 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.489378929138184, ProcessPoolExecutor time: 8.489378929138184 with 12 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 13 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 13 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.470906019210815, ProcessPoolExecutor time: 8.470906019210815 with 13 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 14 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 14 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.520925283432007, ProcessPoolExecutor time: 8.520925283432007 with 14 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 15 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 15 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.52032995223999, ProcessPoolExecutor time: 8.52032995223999 with 15 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 16 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 16 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.540505170822144, ProcessPoolExecutor time: 8.540505170822144 with 16 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 17 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 17 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.539744138717651, ProcessPoolExecutor time: 8.539744138717651 with 17 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 18 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 18 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.545336961746216, ProcessPoolExecutor time: 8.545336961746216 with 18 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 19 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 19 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.543238878250122, ProcessPoolExecutor time: 8.543238878250122 with 19 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 20 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 20 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.530740976333618, ProcessPoolExecutor time: 8.530740976333618 with 20 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 21 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 21 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.583906173706055, ProcessPoolExecutor time: 8.583906173706055 with 21 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 22 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 22 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.548599243164062, ProcessPoolExecutor time: 8.548599243164062 with 22 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 23 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 23 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.575989007949829, ProcessPoolExecutor time: 8.575989007949829 with 23 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 24 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 24 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 8.548087120056152, ProcessPoolExecutor time: 8.548087120056152 with 24 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 1 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 1 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.138556241989136, ProcessPoolExecutor time: 14.346143245697021 with 1 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 2 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 2 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.411472797393799, ProcessPoolExecutor time: 7.89123010635376 with 2 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 3 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 3 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.524672985076904, ProcessPoolExecutor time: 5.870017051696777 with 3 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 4 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 4 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.732327938079834, ProcessPoolExecutor time: 4.123595952987671 with 4 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 5 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 5 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.994353771209717, ProcessPoolExecutor time: 3.950951099395752 with 5 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 6 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 6 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.553856134414673, ProcessPoolExecutor time: 3.9417669773101807 with 6 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 7 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 7 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.73871111869812, ProcessPoolExecutor time: 4.156606912612915 with 7 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 8 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 8 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.657001972198486, ProcessPoolExecutor time: 2.5384719371795654 with 8 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 9 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 9 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.617703914642334, ProcessPoolExecutor time: 2.4561033248901367 with 9 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 10 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 10 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.766304016113281, ProcessPoolExecutor time: 2.505134105682373 with 10 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 11 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 11 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.584886074066162, ProcessPoolExecutor time: 2.5293781757354736 with 11 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 12 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 12 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.813830852508545, ProcessPoolExecutor time: 2.548917055130005 with 12 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 13 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 13 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.896428108215332, ProcessPoolExecutor time: 2.491262912750244 with 13 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 14 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 14 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.800788879394531, ProcessPoolExecutor time: 2.4746272563934326 with 14 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 15 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 15 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.844244956970215, ProcessPoolExecutor time: 2.5324039459228516 with 15 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 16 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 16 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.614326000213623, ProcessPoolExecutor time: 2.4495108127593994 with 16 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 17 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 17 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.902563095092773, ProcessPoolExecutor time: 2.526416778564453 with 17 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 18 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 18 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.704721927642822, ProcessPoolExecutor time: 2.4586679935455322 with 18 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 19 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 19 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.916765213012695, ProcessPoolExecutor time: 2.5379128456115723 with 19 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 20 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 20 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.929412126541138, ProcessPoolExecutor time: 2.554971933364868 with 20 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 21 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 21 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.82990312576294, ProcessPoolExecutor time: 2.4574248790740967 with 21 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 22 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 22 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.84738302230835, ProcessPoolExecutor time: 2.5337250232696533 with 22 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 23 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 23 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.983597040176392, ProcessPoolExecutor time: 2.457247018814087 with 23 jobs
+
+INFO:__main__:Running ThreadPoolExecutor with 24 jobs
+
+INFO:__main__:Running ProcessPoolExecutor with 24 jobs
+
+INFO:__main__:ThreadPoolExecutor time: 14.866643190383911, ProcessPoolExecutor time: 2.454575777053833 with 24 jobs
+
